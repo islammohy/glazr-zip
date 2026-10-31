@@ -1,0 +1,23 @@
+Glazr Zip
+Copyright (c) 2026 IGY Apps. All rights reserved.
+
+This software (the application code, interface, texts and artwork of Glazr Zip) is
+proprietary. You may install and use it on computers you own or control. You may not
+sell, sublicense, modify, decompile or redistribute it, except as the law expressly
+allows, and you may not remove or change its copyright notices or its banner.
+
+The application is free of charge and may be used for any purpose, including
+commercial work. Download it only from the official sources: github.com/islammohy/glazr-zip,
+the Microsoft Store, or links on igy-apps.com.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL IGY APPS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE. Keep a copy of
+important archives: check extracted files before deleting the original.
+
+Third-party components keep their own licenses; they are listed in
+THIRD_PARTY_NOTICES.txt and their full texts are in the "licenses" folder. In
+particular 7-Zip is a separate program under the GNU LGPL with the unRAR license
+restriction, shipped together with its complete source code. Nothing in this license
+limits your rights under the LGPL for those parts.
