@@ -1,6 +1,6 @@
 # Glazr Zip: privacy policy
 
-Last updated: October 31, 2026. Applies to Glazr Zip for Windows and macOS, from GitHub, the
+Last updated: November 2, 2026. Applies to Glazr Zip for Windows and macOS, from GitHub, the
 Microsoft Store or links on igy-apps.com. Publisher: IGY Apps (igy-apps.com).
 
 ## Your files stay on your computer
@@ -19,9 +19,13 @@ of the window and for the newest version number. The request contains only:
 - the language of the app (`ar`, `en`, `fr` or `de`)
 - where it was installed from (`direct` or `store`)
 
-There is no device ID, account, name, email address, or anything about your files. The
-igy-apps.com server, like any website, sees the computer's IP address when it answers; IGY
-Apps does not use it to identify anyone. Banner pictures come from igy-apps.com too.
+There is no device ID, account, name, email address, or anything about your files.
+igy-apps.com keeps **daily totals** of these four values (for example "Glazr Zip, Windows,
+Arabic, Store: 120 today") and of banner clicks. A click on a banner goes through
+igy-apps.com/api/desktop/go.php, which adds one to that banner's daily total and then opens
+the banner's page; links to igy-apps.com get campaign tags (utm). No IP address and no device
+or user identifier is stored, and the totals are deleted after 400 days. Banner pictures come
+from igy-apps.com too.
 
 Offline, the app sends nothing and shows a link to igy-apps.com instead of the banner.
 Everything else works the same.
@@ -58,8 +62,9 @@ page with a new date.
 
 **مع الإنترنت** يطلب البرنامج من igy-apps.com إعلانًا واحدًا لأسفل النافذة ورقم أحدث إصدار،
 ويرسل فقط: اسم البرنامج، والنظام (ويندوز أو ماك)، ولغة البرنامج، ومصدر التثبيت (متجر أو تنزيل
-مباشر). لا معرّف للجهاز ولا حساب ولا اسم ولا بريد. خادم الموقع، مثل أي موقع، يرى عنوان IP
-عند الرد، ولا تستخدمه IGY Apps للتعرّف على أحد.
+مباشر). لا معرّف للجهاز ولا حساب ولا اسم ولا بريد. يحتفظ igy-apps.com بأعداد يومية إجمالية لهذه
+القيم الأربع ولنقرات الإعلانات (النقرة تمر عبر go.php الذي يزيد العدد ثم يفتح صفحة الإعلان)، دون
+عنوان IP ودون أي معرّف للجهاز أو المستخدم، وتُحذف هذه الأعداد بعد 400 يوم.
 
 **بدون إنترنت** لا يرسل البرنامج شيئًا، ويعرض رابط igy-apps.com بدل الإعلان، وكل شيء آخر يعمل
 كما هو.

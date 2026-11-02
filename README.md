@@ -1,3 +1,5 @@
+<img src="docs/icon.png" width="128" alt="Glazr Zip icon">
+
 # Glazr Zip
 
 Free archive manager for **Windows 10/11** and **macOS** by [IGY Apps](https://igy-apps.com).
@@ -33,9 +35,10 @@ This repository holds downloads only. The application's source code is not publi
 
 ## Privacy
 
-Your files never leave your computer. When online, the app downloads one banner and the
-newest version number from igy-apps.com, sending only the app name, the system, the
-language and where it was installed from. Offline, the banner is a link to the website.
+Your files never leave your computer. When online, the app downloads the banner and the
+latest version number, sending only the app name, system, language and install source.
+igy-apps.com keeps daily totals of these values and of banner clicks — no IP address and no
+device or user identifier. Offline, the banner is a link to the website.
 Full text: [PRIVACY.md](PRIVACY.md).
 
 ## Open-source parts
