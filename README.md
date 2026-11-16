@@ -23,7 +23,7 @@ Open, extract and create ZIP, 7z, TAR and more; extract RAR, ISO and split archi
 | System | Where |
 |---|---|
 | macOS 12 or newer, Apple Silicon (M1 or newer) | **[Releases](https://github.com/islammohy/glazr-zip/releases/latest)**: `Glazr-Zip-<version>-macOS-arm64.dmg` |
-| Windows 10/11 | Coming to the **[Microsoft Store](https://apps.microsoft.com/detail/9NDX5FGZHH20)** |
+| Windows 10/11 | **[Microsoft Store](https://apps.microsoft.com/detail/9NDX5FGZHH20)** |
 
 Open the `.dmg` and drag Glazr Zip to Applications. The app is signed with a Developer ID and
 notarized by Apple. Intel Macs are not supported in this version. Check a download against
@@ -71,6 +71,6 @@ Open an [issue](https://github.com/islammohy/glazr-zip/issues). Please don't att
 لأجهزة ماك بمعالج Apple ‏(M1 أو أحدث) ونظام macOS 12 أو أحدث. افتحه واسحب البرنامج إلى مجلد
 التطبيقات؛ البرنامج موقّع ومعتمد من Apple. أجهزة Intel غير مدعومة في هذا الإصدار.
 
-**ويندوز:** قريبًا من [متجر مايكروسوفت](https://apps.microsoft.com/detail/9NDX5FGZHH20).
+**ويندوز:** من [متجر مايكروسوفت](https://apps.microsoft.com/detail/9NDX5FGZHH20).
 
 ![Glazr Zip بالعربية](docs/ar-archive.png)
