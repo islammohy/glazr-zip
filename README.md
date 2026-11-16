@@ -13,6 +13,8 @@ Open, extract and create ZIP, 7z, TAR and more; extract RAR, ISO and split archi
 - Safe: nothing is written outside the folder you choose, extracted files are never run, and
   files from downloaded archives keep the system's "downloaded from the internet" protection.
 - Free, no trial, no nag screens. Works **offline**. Arabic, English, French and German.
+- Works with AI assistants: menu › **Copy instructions for AI** gives ChatGPT, Claude or Codex
+  the exact commands to list, extract, test and create archives on your computer.
 
 ![Glazr Zip](docs/en-archive.png)
 
@@ -62,6 +64,8 @@ Open an [issue](https://github.com/islammohy/glazr-zip/issues). Please don't att
 - استخراج ذكي بلا «مجلد داخل مجلد»، وكلمات سر AES-256، وتقسيم الأرشيف، واختبار سلامته.
 - آمن: لا يُكتب شيء خارج المجلد الذي تختاره، ولا يُشغَّل أي ملف مستخرَج.
 - مجاني بلا فترة تجربة وبلا نوافذ مزعجة، ويعمل **بدون إنترنت**.
+- يعمل مع مساعدي الذكاء الاصطناعي: من القائمة «نسخ تعليمات للذكاء الاصطناعي» يحصل ChatGPT أو
+  Claude أو Codex على الأوامر الدقيقة لاستخراج الأرشيفات وإنشائها على جهازك.
 
 **التنزيل لماك:** من صفحة [الإصدارات](https://github.com/islammohy/glazr-zip/releases/latest)، ملف `.dmg`
 لأجهزة ماك بمعالج Apple ‏(M1 أو أحدث) ونظام macOS 12 أو أحدث. افتحه واسحب البرنامج إلى مجلد
